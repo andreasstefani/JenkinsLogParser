@@ -1,0 +1,7 @@
+# OK rules
+
+# ERROR rules
+error /Skipped/
+error /E155037/
+
+# WARNING rules
